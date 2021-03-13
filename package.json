@@ -36,7 +36,7 @@
     "gm": "~1.17.0",
     "is_js": "~0.7.3",
     "jsesc": "^2.5.1",
-    "knex": "^0.9.0",
+    "knex": "^0.19.5",
     "lru-cache": "^5.1.1",
     "markdown-it": "^8.4.1",
     "markdown-it-emoji": "^1.4.0",
